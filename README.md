@@ -1,0 +1,1 @@
+# amstrong_no_in_range
